@@ -10,6 +10,7 @@ Glosario armado por el equipo. Cada termino va en una linea, con su definicion e
 ## Ramas
 - **rama**: linea de trabajo separada donde haces cambios sin tocar main.
 - *add*: agregar cambios archivos
+- **wicho mi perro y yo lo baño**
 
 ## GitHub
 - **repositorio remoto**: copia del proyecto que vive en GitHub y que todo el equipo comparte.
