@@ -13,3 +13,4 @@ Glosario armado por el equipo. Cada termino va en una linea, con su definicion e
 
 ## GitHub
 - **repositorio remoto**: copia del proyecto que vive en GitHub y que todo el equipo comparte.
+- no puede ser
