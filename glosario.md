@@ -17,3 +17,4 @@ Glosario armado por el equipo. Cada termino va en una linea, con su definicion e
 - no puede ser
 - **add** yamil de agua
 - arriba yamil de mi chile
+- oh si
