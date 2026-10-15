@@ -4,6 +4,7 @@ Glosario armado por el equipo. Cada termino va en una linea, con su definicion e
 
 ## Guardar cambios
 - **commit**: foto del proyecto en un momento dado, con un mensaje que dice que cambio.
+- **add** sirve para complementar 
 
 ## Ramas
 - **rama**: linea de trabajo separada donde haces cambios sin tocar main.
